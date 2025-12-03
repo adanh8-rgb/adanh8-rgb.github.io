@@ -12,4 +12,4 @@ Lab 3 part 1
 The bmr calculator was definitely a fun and interesting one my and my partner had our struggles but it was also probably one of the best experiences working through the the problem and learning how to use functions to and looking back at it now it really wasn’t that difficult of a task compared to what labs I am doing today.
 
 Lab 6 part 1
-I really loved lab 1 part 1 because just the idea of making a sandwich is kind of hilarious to me using code. It was also the introduction to vectors and kind of made me think of the things that vectors can be used to make and how vectors are just a complex idea. It relieves me to think that I actually understand this stuff..
+I really loved lab 1 part 1 because just the idea of making a sandwich is kind of hilarious to me using code. It was also the introduction to vectors and kind of made me think of the things that vectors can be used to make and how vectors are just a complex idea. It relieves me to think that I actually understand this stuff.
